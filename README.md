@@ -1,6 +1,7 @@
-![image](https://github.com/MatiasMoraes/Sucos_Vendas/assets/141168863/32ba68fa-9f8e-4aa5-98e9-a4fc0c8c48d0)
+## *Projeto SQL Server: SUCOS_VENDAS*
+## ![image](https://github.com/MatiasMoraes/Sucos_Vendas/assets/141168863/32ba68fa-9f8e-4aa5-98e9-a4fc0c8c48d0)
 ## *Diagrama do Projeto*
-![image](https://github.com/MatiasMoraes/Sucos_Vendas/assets/141168863/84de722b-e66e-4e6e-9eaa-270dc79db67f)
+## ![image](https://github.com/MatiasMoraes/Sucos_Vendas/assets/141168863/84de722b-e66e-4e6e-9eaa-270dc79db67f)
 ## *Criando um banco:*
 ### A princípio é necessário criar uma Base de dados, assim sigo com os comandos para a criação da base de dados  
 ![image](https://github.com/MatiasMoraes/Sucos_Vendas/assets/141168863/a089e947-401d-4629-8c9c-dccd9f8011e4)
