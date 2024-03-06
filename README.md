@@ -76,46 +76,10 @@ Nessa etapa foi criado uma TABELA DE PRODUTOS2, fictícia
 
 ![image](https://github.com/MatiasMoraes/Sucos_Vendas/assets/141168863/140813ac-0425-4eea-b056-3c003bf9d645)
 
-Nessa ultima etapa foi, feito as consultas dos dados nas Tabelas:
-Utilizado o comando SELECT * FROM e também fazendo a consulta especifica onde é usado o Select e [ especificação ] depois utilizando o comando From em seguida.
-Assim consultando as tabelas de forma especifica e geral. 
+*Nessa ultima etapa foi, feito as consultas dos dados nas Tabelas:*
+*Utilizado o comando SELECT * FROM e também fazendo a consulta especifica onde é usado o Select e [ especificação ] depois utilizando o comando From em seguida.*
+*Assim consultando as tabelas de forma especifica e geral.*
 
 
 > [!IMPORTANT]
 > *Mini projeto feito para prática e estudo, toda dica será sempre bem vinda!*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
